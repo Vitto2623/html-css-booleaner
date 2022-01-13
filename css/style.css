@@ -1,3 +1,10 @@
+th{
+    color: floralwhite;
+}
+
+.riga2{
+    background-color: lightskyblue;
+}
 .container{
     background: rgb(75, 130, 232); 
     height: 125px;
@@ -8,4 +15,8 @@
 #logo{
     width: 200px;
     margin-top: 60px;
+}
+
+#riga1{
+    background-color: rgb(42, 141, 240);
 }
