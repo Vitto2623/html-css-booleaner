@@ -1,5 +1,6 @@
 th{
     color: floralwhite;
+    width: 3000px;
 }
 
 a{
@@ -16,6 +17,44 @@ a{
     background-size: 480px;
 }
 
+.square-img1{
+    background-image: url("../img/monitor.jpg");
+    width: 210px;
+    height: 160px;
+    color: white;
+    display: block;
+    background-size: cover;
+}
+
+.square-img2{
+    background-image: url("../img/graph.jpg");
+    width: 210px;
+    height: 160px;
+    color: white;
+}
+
+#text1{
+    font-size: 70px;
+}
+
+#text2{
+    color: grey;
+    font-size: 20px;
+    margin-top: -60px;
+}
+
+#text3{
+    color: grey;
+    margin-top: -14px;
+    margin-bottom: 25px;
+}
+
+#text4{
+    padding-left: 10px;
+    padding-top: 15px;
+    font-weight: bold;
+}
+
 #logo{
     width: 200px;
     margin-top: 60px;
@@ -27,13 +66,4 @@ a{
 
 #item{
     color: grey;
-}
-
-#logo2{
-    background-image: url("img/monitor.jpg")
-    
-}
-
-#logo3{
-    
 }
