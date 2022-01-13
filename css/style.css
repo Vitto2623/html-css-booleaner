@@ -7,9 +7,7 @@ a{
     text-decoration: none;
 }
 
-.riga2{
-    background-color: lightskyblue;
-}
+/*Header*/
 .container{
     background: rgb(75, 130, 232); 
     height: 125px;
@@ -17,22 +15,11 @@ a{
     background-size: 480px;
 }
 
-.square-img1{
-    background-image: url("../img/monitor.jpg");
-    width: 210px;
-    height: 160px;
-    color: white;
-    display: block;
-    background-size: cover;
+#logo{
+    width: 200px;
+    margin-top: 60px;
 }
-
-.square-img2{
-    background-image: url("../img/graph.jpg");
-    width: 210px;
-    height: 160px;
-    color: white;
-}
-
+/*main*/
 #text1{
     font-size: 70px;
 }
@@ -49,21 +36,36 @@ a{
     margin-bottom: 25px;
 }
 
+#riga1{
+    background-color: rgb(42, 141, 240);
+}
+
+.riga2{
+    background-color: lightskyblue;
+}
+/*footer*/
+#item{
+    color: grey;
+}
+
+.square-img1{
+    background-image: url("../img/monitor.jpg");
+    width: 210px;
+    height: 160px;
+    color: white;
+    display: block;
+    background-size: cover;
+}
+
 #text4{
     padding-left: 10px;
     padding-top: 15px;
     font-weight: bold;
 }
 
-#logo{
-    width: 200px;
-    margin-top: 60px;
-}
-
-#riga1{
-    background-color: rgb(42, 141, 240);
-}
-
-#item{
-    color: grey;
+.square-img2{
+    background-image: url("../img/graph.jpg");
+    width: 210px;
+    height: 160px;
+    color: white;
 }
