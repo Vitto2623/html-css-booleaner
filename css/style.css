@@ -2,6 +2,10 @@ th{
     color: floralwhite;
 }
 
+a{
+    text-decoration: none;
+}
+
 .riga2{
     background-color: lightskyblue;
 }
@@ -19,4 +23,17 @@ th{
 
 #riga1{
     background-color: rgb(42, 141, 240);
+}
+
+#item{
+    color: grey;
+}
+
+#logo2{
+    background-image: url("img/monitor.jpg")
+    
+}
+
+#logo3{
+    
 }
